@@ -6,7 +6,7 @@
 
 - 👩🏽‍💻 I am a Full-Stack Software Engineering Resident at Future Code x Codesmith.
 
-- 🌱 I'm currently deepening my expertise in data analytics through the COOP Data Analytics Fellowship.
+- 🌱 I am a graduate of the COOP Data Analytics Fellowship (2024) and a proud Wellesley College alum (2022).
 
 
 
