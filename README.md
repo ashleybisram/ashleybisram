@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/ashleybisram?label=Follow&style=social)](https://github.com/ashleybisram)
 <!--![](https://visitor-badge.laobi.icu/badge?page_id=ashleybisram.ashleybisram)-->
 
-- 👩🏽‍💻 I am a Full-Stack Software Engineering Resident at Future Code x Codesmith.
+- 👩🏽‍💻 I am a Software Engineering Resident at Future Code x Codesmith.
 
 - 🌱 I am a graduate of the COOP Data Analytics Fellowship (2024) and a proud Wellesley College alum (2022).
 
