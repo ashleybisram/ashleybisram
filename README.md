@@ -4,9 +4,11 @@
 [![Github](https://img.shields.io/github/followers/ashleybisram?label=Follow&style=social)](https://github.com/ashleybisram)
 <!--![](https://visitor-badge.laobi.icu/badge?page_id=ashleybisram.ashleybisram)-->
 
-- 👩🏽‍💻 I am a Software Engineering Resident at Future Code x Codesmith.
+👩🏽‍💻 Currently, I am a Software Engineer contributing to Chronos, an open-source monitoring tool for developers.
 
-- 🌱 I am a graduate of the COOP Data Analytics Fellowship (2024) and a proud Wellesley College alum (2022).
+🌱 I am a Software Engineering Resident at Future Code x Codesmith, where I continue to refine my development skills.
+
+🎓 Graduate of the COOP Data Analytics Fellowship (2024) and proud Wellesley College alum (2022).
 
 
 
