@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/ashleybisram?label=Follow&style=social)](https://github.com/ashleybisram)
 <!--![](https://visitor-badge.laobi.icu/badge?page_id=ashleybisram.ashleybisram)-->
 
-👩🏽‍💻 Currently, I am a Software Engineer contributing to Chronos, an open-source monitoring tool for developers.
+👩🏽‍💻 Currently, I am a Software Engineer at OSLabs contributing to Chronos, an open-source monitoring tool for developers.
 
 🌱 I am a Software Engineering Resident at Future Code x Codesmith, where I continue to refine my development skills.
 
@@ -27,7 +27,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
 </p>
 
