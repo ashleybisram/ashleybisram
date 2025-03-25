@@ -6,11 +6,6 @@
 
 👩🏽‍💻 Currently, I am a Software Engineer at OSLabs contributing to Chronos, an open-source monitoring tool for developers.
 
-🌱 I am a Software Engineering Resident at Future Code x Codesmith, where I continue to refine my development skills.
-
-🎓 Graduate of the COOP Data Analytics Fellowship (2024) and proud Wellesley College alum (2022).
-
-
 
 <br />
 
