@@ -5,8 +5,6 @@
 <!--![](https://visitor-badge.laobi.icu/badge?page_id=ashleybisram.ashleybisram)-->
 
 👩🏽‍💻 Currently, I am a Software Engineer at OSLabs contributing to Chronos, an open-source monitoring tool for developers.
-
-
 <br />
 
 ## 🛠️ Languages and Tools:
