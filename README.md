@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/ashleybisram?label=Follow&style=social)](https://github.com/ashleybisram)
 <!--![](https://visitor-badge.laobi.icu/badge?page_id=ashleybisram.ashleybisram)-->
 
-👩🏽‍💻 Currently, I am a Software Engineer at OSLabs contributing to Chronos, an open-source monitoring tool for developers.
+👩🏽‍💻 Currently, I am a Software Engineer at Open Source Labs contributing to Chronos, an open-source monitoring tool for developers.
 <br />
 
 ## 🛠️ Languages and Tools:
@@ -35,17 +35,4 @@
 <!--
 Credits:
 https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
-
-**ashleybisram/ashleybisram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
