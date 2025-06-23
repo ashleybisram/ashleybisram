@@ -1,9 +1,6 @@
 
 ## Welcome, I'm Ashley! 👋🏽
 
-[![Github](https://img.shields.io/github/followers/ashleybisram?label=Follow&style=social)](https://github.com/ashleybisram)
-<!--![](https://visitor-badge.laobi.icu/badge?page_id=ashleybisram.ashleybisram)-->
-
 👩🏽‍💻 Currently, I am a Software Engineer at Open Source Labs contributing to Chronos, an open-source monitoring tool for developers.
 <br />
 
@@ -32,6 +29,9 @@
  <a href="https://www.youtube.com/@BytesOfAsh" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="Youtube" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:ashleydevibisram@gmail.com"> <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
+
+[![Github](https://img.shields.io/github/followers/ashleybisram?label=Follow&style=social)](https://github.com/ashleybisram)
+<!--![](https://visitor-badge.laobi.icu/badge?page_id=ashleybisram.ashleybisram)-->
 
 <!--
 Credits:
